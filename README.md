@@ -14,12 +14,12 @@ File extension of scala source file may be either `.scala` or `.sc`
 You can create any kind of application like web application, enterprise application, mobile application, desktop based application etc.
 
 Creating the project: 
-    - Open up IntelliJ and click File => New => Project 
-    - On the left panel, select Scala. On the right panel, select IDEA.
-    - Name the project sample 
-    - Assuming this is your first time creating a Scala project with IntelliJ, you’ll need to install a Scala SDK. To the right of the Scala SDK field, click the Create button. 
-    - Select the highest version number (e.g. 2.13.3) and click Download. This might take a few minutes but subsequent projects can use the same SDK. 
-    - Once the SDK is created and you’re back to the “New Project” window click Finish.
+  - Open up IntelliJ and click File => New => Project 
+  - On the left panel, select Scala. On the right panel, select IDEA.
+  - Name the project sample 
+  - Assuming this is your first time creating a Scala project with IntelliJ, you’ll need to install a Scala SDK. To the right of the Scala SDK field, click the Create button. 
+  - Select the highest version number (e.g. 2.13.3) and click Download. This might take a few minutes but subsequent projects can use the same SDK. 
+  - Once the SDK is created and you’re back to the “New Project” window click Finish.
 
 In intellij use the Scala plugin and sbt
 
