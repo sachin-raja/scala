@@ -34,3 +34,13 @@ A typical Scala Directory Structure:
       - `test`(unit tests) 
   - `target` (generated files) 
   - `build.sbt` (build definition file for sbt) 
+
+Running the project
+
+  - From the Run menu, select `Edit configurations`
+  - Click the + button and select `sbt Task`.
+  - Name it `RunMain` the program.
+  - In the Tasks field, type `~run`. The `~` causes sbt to rebuild and rerun the project when you save changes to a file in the project.
+  - Click `OK`.
+  - On the Run menu. Click `RunMain ‘Run the program’`.
+  - Look at the updated output in the console.
