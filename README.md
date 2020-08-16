@@ -1,5 +1,5 @@
 # Learning Scala
-Scala is a general-purpose programming language. \
+Scala is a general-purpose programming language. 
 It supports object oriented, functional and imperative programming approaches. \ 
 It is a strong static type language. \
 In Scala, everything is an object whether it is a function or a number. \
